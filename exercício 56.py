@@ -1,3 +1,7 @@
+'''Lendo o nome, idade e sexo de 4 pessoas, e dando:
+A média de idade das 4 pessoas;
+O nome do homem mais velho;
+E o número de mulheres abaixo de 20 anos.'''
 #Variaveis
 media = 0
 maiori = 0
